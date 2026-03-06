@@ -1,0 +1,28 @@
+header
+{   Display: flex;
+        justify-content: space-between;
+            align-items: center;
+            padding:8px;
+     background-color: #100666;
+
+    text-align: center; 
+    .button{
+        background-color: #fffefe;
+        color: rgb(8, 8, 8);
+        padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        margin-left: auto;
+    }
+}
+.logo img{
+    height: 35px;
+    width: auto;
+}
+nav a{ 
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 16px;
+}
